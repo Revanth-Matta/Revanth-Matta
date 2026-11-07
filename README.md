@@ -1,5 +1,7 @@
 # Hi, I’m Revanth Kumar Matta 👋
 
+![Revanth’s Atlas banner](./banner.png)
+
 I’m a curious builder exploring the space between **stories, strategy, data, making, and everyday discovery**.
 
 I enjoy turning ideas into useful digital experiences, learning through small experiments, and understanding how systems, stories, and everyday choices work.
