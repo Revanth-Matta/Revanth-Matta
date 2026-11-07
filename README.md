@@ -2,7 +2,9 @@
 
 # Revanth Kumar Matta 👋
 
-**A process-minded professional. A curiosity-driven tinkerer.**
+## Thinking & Tinkering
+
+**Making work clearer. Following curiosity further.**
 
 `Stories` · `Strategy` · `Data` · `Small experiments`
 
@@ -13,12 +15,12 @@
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3>⚙️ Making work clearer</h3>
+      <h3>⚙️ Thinking</h3>
       <p>Healthcare operations, quality assurance, and practical process improvement.</p>
       <a href="https://revanth-matta.github.io/"><b>Explore my professional journey →</b></a>
     </td>
     <td width="50%" align="center" valign="top">
-      <h3>🧭 Following curiosity</h3>
+      <h3>🧪 Tinkering</h3>
       <p>Stories, games, data, and small tools—learning by trying things out.</p>
       <a href="https://revanth-matta.github.io/revanth-journey/"><b>Wander through my Atlas →</b></a>
     </td>
