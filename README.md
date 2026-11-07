@@ -1,6 +1,6 @@
 # Hi, I’m Revanth Kumar Matta 👋
 
-<img src="./banner.png" alt="Revanth Kumar Matta — curious builder exploring stories, strategy, data, making, and everyday discovery" width="100%" />
+<img src="https://raw.githubusercontent.com/Revanth-Matta/Revanth-Matta/main/banner.png?v=2" alt="Revanth Kumar Matta — curious builder exploring stories, strategy, data, making, and everyday discovery" width="100%" />
 
 ### Curious builder exploring stories, strategy, data, making, and everyday discovery.
 
@@ -26,7 +26,7 @@ By profession, I work in healthcare operations and quality assurance — a world
   <tr>
     <td width="100%">
       <a href="https://revanth-matta.github.io/revanth-journey/">
-        <img src="./assets/atlas-preview.png" alt="Revanth’s Atlas preview" width="100%" />
+        <img src="https://raw.githubusercontent.com/Revanth-Matta/Revanth-Matta/main/assets/atlas-preview.png?v=2" alt="Revanth’s Atlas preview" width="100%" />
       </a>
       <br>
       <h3 align="center">Revanth’s Atlas</h3>
