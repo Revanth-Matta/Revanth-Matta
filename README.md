@@ -8,26 +8,36 @@
 
 `Stories` · `Strategy` · `Data` · `Small experiments`
 
-</div>
-
 <br>
 
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3>⚙️ Thinking</h3>
-      <p>Healthcare operations, quality assurance, and practical process improvement.</p>
-      <a href="https://revanth-matta.github.io/"><b>Explore my professional journey →</b></a>
-    </td>
+
+### ⚙️ Thinking
+
+<a href="https://revanth-matta.github.io/">
+  <img src="https://img.shields.io/badge/Healthcare%20Operations-Explore-0f766e?style=for-the-badge" alt="Explore professional journey" />
+</a>
+
+<p>Quality, clarity, and practical process improvement.</p>
+
+</td>
     <td width="50%" align="center" valign="top">
-      <h3>🧪 Tinkering</h3>
-      <p>Stories, games, data, and small tools—learning by trying things out.</p>
-      <a href="https://revanth-matta.github.io/revanth-journey/"><b>Wander through my Atlas →</b></a>
-    </td>
+
+### 🧪 Tinkering
+
+<a href="https://revanth-matta.github.io/revanth-journey/">
+  <img src="https://img.shields.io/badge/Revanth’s%20Atlas-Explore-8b5cf6?style=for-the-badge" alt="Explore Revanth’s Atlas" />
+</a>
+
+<p>Stories, games, data, and small experiments.</p>
+
+</td>
   </tr>
 </table>
 
-<div align="center">
+<br>
 
 **Have a question, an idea, or an interesting “what if”?**
 
